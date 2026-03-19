@@ -26,7 +26,6 @@ The repository does not assume that one number or one benchmark settles the ques
 - [Tools and Calculators](#-tools-and-calculators)
 - [Benchmarks and Leaderboards](#-benchmarks-and-leaderboards)
 - [Critiques, Limitations, and Controversies](#-critiques-limitations-and-controversies)
-- [French Ecosystem and French-Language Resources](#-french-ecosystem-and-french-language-resources)
 - [Research Gaps and Open Questions](#-research-gaps-and-open-questions)
 - [Contributing](#contributing)
 - [Related Projects](#related-projects)
@@ -203,17 +202,6 @@ The field includes active disagreements. A serious repository should preserve th
 - Carbon-only analysis can obscure water, materials, e-waste, biodiversity, and labor issues.
 - Efficiency gains can reduce per-query impact while increasing total use.
 - Narrow operational accounting can understate embodied infrastructure impacts.
-
-## French Ecosystem and French-Language Resources
-
-France has a meaningful ecosystem around digital sustainability, lifecycle assessment, and public-interest infrastructure metrics. This section should grow over time.
-
-- [ADEME](https://www.ademe.fr/): French public agency for ecological transition; relevant for environmental methodology, lifecycle assessment, and digital footprint work.
-- [Boavizta](https://boavizta.org/en/): Open community and methodology work on digital environmental assessment.
-- [Hubblo](https://hubblo.org/en/): French consultancy and public-interest actor active on digital environmental impact and LCA-related work.
-- [EcoInfo CNRS](https://ecoinfo.cnrs.fr/): CNRS network focused on reducing the environmental footprint of research and digital practices.
-- [INRIA](https://www.inria.fr/en): Major French public research institute with AI expertise and potential relevance for responsible and sustainable AI research.
-- [Arcep: Digital Sustainability Work](https://en.arcep.fr/thematiques/sustainable-digital-development.html): French telecom regulator resources on digital environmental issues.
 
 ## Research Gaps and Open Questions
 
