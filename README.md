@@ -49,6 +49,7 @@ These are among the most influential references for framing the environmental di
 - [On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?](https://dl.acm.org/doi/abs/10.1145/3442188.3445922) (Bender, Gebru, McMillan-Major, Shmitchell, 2021): Not an environmental paper alone, but central to broader debates on the social, epistemic, and environmental costs of scaling language models.
 - [Carbon Emissions and Large Neural Network Training](https://www.kathimerini.gr/wp-content/uploads/2024/07/2104-10350_1.pdf) (Patterson et al., 2021): Important attempt to compare large-model training emissions while emphasizing datacenter efficiency and clean-energy-aware deployment choices.
 - [A Systematic Review of Green AI](https://wires.onlinelibrary.wiley.com/doi/abs/10.1002/widm.1507) (Verdecchia, Sallou, Cruz, 2023): Useful map of the emerging Green AI literature and its main methodological strands.
+- [Environmental Impact of Artificial Intelligence](https://inria.hal.science/hal-04283245/document) (Delort, Riou, Srivastava, 2023): Concise overview of how AI environmental impacts are measured, with attention to both LLMs and AI-for-environment use cases.
 
 ## Environmental Impact of LLMs
 
@@ -60,6 +61,7 @@ Large language models concentrate several environmental questions at once: massi
 - [Green AI: Exploring Carbon Footprints, Mitigation Strategies, and Trade-Offs in Large Language Model Training](https://link.springer.com/article/10.1007/s44163-024-00149-w) (Liu, Yin, 2024): Overview of mitigation strategies and training-related trade-offs for LLMs.
 - [Towards Sustainable NLP: Insights from Benchmarking Inference Energy in Large Language Models](https://aclanthology.org/2025.naacl-long.632/) (Poddar et al., 2025): Benchmarking-oriented contribution showing the importance of workload and task design when comparing inference costs.
 - [How Hungry Is AI? Benchmarking Energy, Water, and Carbon Footprint of LLM Inference](https://arxiv.org/abs/2505.09598) (Jegham et al., 2025): Relevant for moving beyond carbon-only analysis toward water and resource-aware comparisons.
+- [Beyond Efficiency: A Systematic Survey of Resource-Efficient Large Language Models](https://arxiv.org/abs/2401.00625) (Bai et al., 2024): Broad survey of efficiency techniques, benchmarks, and trade-offs relevant to reducing LLM resource use.
 
 ## Training vs Inference
 
@@ -77,6 +79,7 @@ Useful references:
 - [Evaluating the Carbon Impact of Large Language Models at the Inference Stage](https://ieeexplore.ieee.org/abstract/document/10253886/) (Everman et al., 2023)
 - [From Words to Watts: Benchmarking the Energy Costs of Large Language Model Inference](https://ieeexplore.ieee.org/abstract/document/10363447/) (Samsi et al., 2023)
 - [Energy Considerations of Large Language Model Inference and Efficiency Optimizations](https://aclanthology.org/2025.acl-long.1563/) (Fernandez et al., 2025)
+- [Beyond Efficiency: A Systematic Survey of Resource-Efficient Large Language Models](https://arxiv.org/abs/2401.00625) (Bai et al., 2024)
 
 ## Measurement Methodologies
 
@@ -87,6 +90,7 @@ This is the section to read before trusting any single emissions number.
 - [Toward Green AI: A Methodological Survey of the Scientific Literature](https://ieeexplore.ieee.org/abstract/document/10418137/) (Barbierato, Gatti, 2024): Useful survey of methodological trends in Green AI.
 - [Measuring and Modeling CO2 Emissions in Machine Learning Processes](https://aile3.ijs.si/dunja/SiKDD2024/Papers/IS2024_-_SIKDD_2024_paper_23.pdf) (Hrib et al., 2024): Discusses how different trackers and modeling assumptions affect reported results.
 - [Carbon Emission Quantification of Machine Learning: A Review](https://ieeexplore.ieee.org/abstract/document/11030805/) (Hasan et al., 2025): Broad review of quantification approaches and open standardization issues.
+- [Green Metrics for AI: A Hybrid Strategy for Environmental Impact Assessment](https://www.sciencedirect.com/science/article/pii/S2590005625001559) (Borraccia, Masciari, Napolitano, 2025): Proposes a hybrid assessment strategy to reduce fragmentation across environmental AI metrics.
 
 Common methodological issues:
 
@@ -103,10 +107,13 @@ Lifecycle assessment (LCA) is still underused in AI discussions, even though chi
 
 - [Quantifying the Carbon Emissions of Machine Learning](https://arxiv.org/abs/1910.09700) (Lacoste et al., 2019): Operational accounting focus, often used as an entry point.
 - [Carbon Footprint of AI Data Centers: A Life Cycle Approach](https://www.energy-proceedings.org/wp-content/uploads/icae2024/1728494991.pdf) (d'Orgeval et al., 2024): Explicit LCA framing for AI data centers.
+- [Unraveling the Hidden Environmental Impacts of AI Solutions for Environment: Life Cycle Assessment of AI Solutions](https://www.mdpi.com/2071-1050/14/9/5172) (Ligozat, Lefevre, Bugeau, Combaz, 2022): Important paper on applying LCA not only to AI itself, but also to AI systems deployed for environmental purposes.
 - [MLCA: A Tool for Machine Learning Life Cycle Assessment](https://ieeexplore.ieee.org/abstract/document/10805338/) (Morand, Ligozat, Névéol, 2024): Tool-oriented contribution aimed at fuller lifecycle reasoning.
 - [Toward a Life Cycle Assessment for the Carbon Footprint of Data](https://dl.acm.org/doi/abs/10.1145/3727200.3727206) (Mersy, Krishnan, 2024): Extends the discussion from models to the footprint of data itself.
+- [Estimating the Environmental Impact of Generative-AI Services Using an LCA-Based Methodology](https://www.sciencedirect.com/science/article/pii/S2212827124001173) (Berthelot, Caron, Jay, Lefevre, 2024): LCA-based methodology aimed at estimating impacts at the service level rather than only the model level.
 - [Generative AI Impact Assessment Through a Life Cycle Analysis of Multiple Data Center Typologies](https://www.sciencedirect.com/science/article/pii/S0306261925020185) (d'Orgeval et al., 2026): One of the more ambitious efforts to include both training and inference in an LCA framework.
 - [Advances in Application of Machine Learning to Life Cycle Assessment: A Literature Review](https://link.springer.com/article/10.1007/s11367-022-02030-3) (Ghoroghi et al., 2022): Useful for readers connecting AI sustainability research with the broader LCA field.
+- [Life Cycle Assessment of Artificial Intelligence Applications: Research Gaps and Opportunities](https://www.sciencedirect.com/science/article/pii/S2212827125003749) (Plociennik et al., 2025): Useful overview of where current AI LCAs remain incomplete and where better system boundaries are needed.
 
 ## Energy, Hardware, and Data Centers
 
@@ -114,6 +121,7 @@ Environmental impact is not only a model issue. It is also an infrastructure iss
 
 - [Carbon Emissions and Large Neural Network Training](https://www.kathimerini.gr/wp-content/uploads/2024/07/2104-10350_1.pdf) (Patterson et al., 2021): Highlights the role of hardware efficiency and datacenter characteristics.
 - [Carbon Footprint of AI Data Centers: A Life Cycle Approach](https://www.energy-proceedings.org/wp-content/uploads/icae2024/1728494991.pdf) (d'Orgeval et al., 2024): Relevant for moving discussion from isolated GPUs to full facilities.
+- [Life-Cycle Emissions of AI Hardware: A Cradle-to-Grave Approach and Generational Trends](https://arxiv.org/abs/2502.01671) (Schneider et al., 2025): Rare attempt to quantify AI accelerator lifecycle emissions across hardware generations.
 - [Life Cycle Assessment of Edge Data Centers: Case Study in Presence of Renewable Energy and Refurbished Servers](https://dl.acm.org/doi/abs/10.1145/3724127) (Samaye, Ouffoué, Gamatié, 2025): Useful for thinking beyond hyperscale clouds.
 - [Assessment of Carbon-Aware Flexibility Measures From Data Centres Using Machine Learning](https://ieeexplore.ieee.org/abstract/document/9916120/) (Misaghian et al., 2022): Connects data-center operations, flexibility, and carbon-aware management.
 
@@ -134,6 +142,7 @@ This repository is not only about AI's footprint. AI can also help reduce emissi
 - [The AI Gambit: Leveraging Artificial Intelligence to Combat Climate Change](https://link.springer.com/article/10.1007/s00146-021-01294-x) (Cowls, Tsamados, Taddeo, Floridi, 2023): Useful for linking technical opportunity with governance and policy recommendations.
 - [Machine-Learning-Based Evidence and Attribution Mapping of 100,000 Climate Impact Studies](https://www.nature.com/articles/s41558-021-01168-6) (Callaghan et al., 2021): Good example of AI used to synthesize climate evidence at scale.
 - [Predicting Global Patterns of Long-Term Climate Change From Short-Term Simulations Using Machine Learning](https://www.nature.com/articles/s41612-020-00148-5) (Mansfield et al., 2020): Example of AI assisting climate modeling and computational efficiency.
+- [How Can Big Data and Machine Learning Benefit Environment and Water Management: A Survey of Methods, Applications, and Future Directions](https://iopscience.iop.org/article/10.1088/1748-9326/ab1b7d/meta) (Sun, Scanlon, 2019): Broad survey of ML methods for environmental and water management problems.
 - [Climate Change AI](https://www.climatechange.ai/): Major community hub connecting machine learning with climate action, workshops, educational material, and domain-specific initiatives.
 
 Application areas:
@@ -156,6 +165,7 @@ Governance discussions often lag behind the technical literature. This section c
 - [EU AI Act](https://artificialintelligenceact.eu/): Major regulatory development for AI governance in Europe; environmental reporting remains limited, but the Act matters for system classification and compliance design.
 - [Software Carbon Intensity (SCI) Specification](https://sci.greensoftware.foundation/): Practical standardization effort from the Green Software Foundation, relevant to software and service-level carbon accounting.
 - [Towards a Methodology and Framework for AI Sustainability Metrics](https://dl.acm.org/doi/abs/10.1145/3604930.3605715) (Eilam et al., 2023): Useful bridge between technical metrics and governance needs.
+- [Artificial Intelligence, Climate Change and Innovative Democratic Governance](https://www.cambridge.org/core/journals/european-journal-of-risk-regulation/article/artificial-intelligence-climate-change-and-innovative-democratic-governance/F1420B6A589B50D68F2644272C2A53D1) (Cortez, 2023): Governance-oriented discussion connecting AI, climate policy, and democratic oversight.
 - [The Global Landscape of Environmental AI Regulation: From the Cost of Reasoning to a Right to Green AI](https://arxiv.org/abs/2603.00068) (Ebert et al., 2026): Early overview of a fast-moving regulatory discussion.
 
 ## Datasets
