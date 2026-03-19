@@ -31,7 +31,7 @@ The repository does not assume that one number or one benchmark settles the ques
 - [Contributing](#contributing)
 - [Related Projects](#related-projects)
 
-## 🌍 Overview
+## Overview
 
 This repository covers two partially overlapping literatures:
 
@@ -40,7 +40,7 @@ This repository covers two partially overlapping literatures:
 
 The field is fragmented. Many claims are difficult to compare because authors report different units, scopes, workloads, hardware setups, and regional electricity assumptions. A useful reference list therefore needs curation, not just accumulation.
 
-## 📚 Foundational Papers
+## Foundational Papers
 
 These are among the most influential references for framing the environmental discussion around modern machine learning.
 
@@ -51,7 +51,7 @@ These are among the most influential references for framing the environmental di
 - [Carbon Emissions and Large Neural Network Training](https://www.kathimerini.gr/wp-content/uploads/2024/07/2104-10350_1.pdf) (Patterson et al., 2021): Important attempt to compare large-model training emissions while emphasizing datacenter efficiency and clean-energy-aware deployment choices.
 - [A Systematic Review of Green AI](https://wires.onlinelibrary.wiley.com/doi/abs/10.1002/widm.1507) (Verdecchia, Sallou, Cruz, 2023): Useful map of the emerging Green AI literature and its main methodological strands.
 
-## 🧠 Environmental Impact of LLMs
+## Environmental Impact of LLMs
 
 Large language models concentrate several environmental questions at once: massive training runs, repeated inference at scale, hardware concentration, and weak disclosure norms.
 
@@ -126,7 +126,7 @@ Topics that deserve more systematic coverage:
 - Grid congestion and temporal matching of clean electricity.
 - Rebound effects from cheaper inference and wider adoption.
 
-## 🌱 AI for Climate and Environmental Applications
+## AI for Climate and Environmental Applications
 
 This repository is not only about AI's footprint. AI can also help reduce emissions, improve adaptation, and strengthen environmental monitoring, although impact claims should be assessed critically.
 
@@ -204,7 +204,7 @@ The field includes active disagreements. A serious repository should preserve th
 - Efficiency gains can reduce per-query impact while increasing total use.
 - Narrow operational accounting can understate embodied infrastructure impacts.
 
-## 🇫🇷 French Ecosystem and French-Language Resources
+## French Ecosystem and French-Language Resources
 
 France has a meaningful ecosystem around digital sustainability, lifecycle assessment, and public-interest infrastructure metrics. This section should grow over time.
 
