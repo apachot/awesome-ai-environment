@@ -170,7 +170,6 @@ Datasets are split here between environmental-impact accounting inputs and clima
 - [ERA5 Reanalysis](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-single-levels): Widely used climate and weather reanalysis product.
 - [Sentinel Data](https://dataspace.copernicus.eu/): Earth observation data for land, ocean, atmosphere, and environmental monitoring applications.
 - [Landsat Missions](https://www.usgs.gov/landsat-missions): Long-running satellite program relevant to land cover, water, forestry, and environmental change.
-- [ADD REFERENCE] Public datasets explicitly designed for AI lifecycle, hardware, and datacenter environmental accounting remain sparse and should be curated further.
 
 ## Tools and Calculators
 
@@ -192,7 +191,6 @@ This is one of the weakest areas in the field. Benchmarking exists, but environm
 - [From Words to Watts: Benchmarking the Energy Costs of Large Language Model Inference](https://ieeexplore.ieee.org/abstract/document/10363447/) (Samsi et al., 2023): Example of workload-level energy benchmarking for LLM inference.
 - [Towards Sustainable NLP: Insights from Benchmarking Inference Energy in Large Language Models](https://aclanthology.org/2025.naacl-long.632/) (Poddar et al., 2025): More recent inference benchmarking perspective.
 - [Benchmarking Large Language Models: Opportunities and Challenges](https://link.springer.com/chapter/10.1007/978-3-031-68031-1_6) (Hodak et al., 2023): Useful background on why LLM benchmarking is difficult in the first place.
-- [ADD REFERENCE] A public, widely adopted benchmark and leaderboard for end-to-end environmental performance of LLM services would be valuable.
 
 ## Critiques, Limitations, and Controversies
 
@@ -216,8 +214,6 @@ France has a meaningful ecosystem around digital sustainability, lifecycle asses
 - [EcoInfo CNRS](https://ecoinfo.cnrs.fr/): CNRS network focused on reducing the environmental footprint of research and digital practices.
 - [INRIA](https://www.inria.fr/en): Major French public research institute with AI expertise and potential relevance for responsible and sustainable AI research.
 - [Arcep: Digital Sustainability Work](https://en.arcep.fr/thematiques/sustainable-digital-development.html): French telecom regulator resources on digital environmental issues.
-- [ADD REFERENCE] French-language reports focused specifically on AI environmental impact, model training, and inference accounting.
-- [ADD REFERENCE] French public datasets or observatories dedicated to AI infrastructure footprint.
 
 ## Research Gaps and Open Questions
 
@@ -267,7 +263,6 @@ Suggested entry format:
 - [CodeCarbon](https://github.com/mlco2/codecarbon)
 - [Boavizta](https://boavizta.org/en/)
 - [awesome-green-software](https://github.com/Green-Software-Foundation/awesome-green-software): Broader software sustainability repository with adjacent relevance for AI infrastructure and measurement.
-- [ImpactLLM](https://github.com/[ADD-REFERENCE]/ImpactLLM) [ADD REFERENCE]
 
 ## License
 
