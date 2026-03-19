@@ -260,9 +260,13 @@ Suggested entry format:
 
 ## Related Projects
 
+- [awesome-green-ai](https://github.com/samuelrince/awesome-green-ai): One of the closest GitHub repositories to this one, focused on Green AI resources and practices.
+- [sustainable-ai](https://github.com/navveenb/sustainable-ai): Repository centered on practical approaches to making AI systems more sustainable.
+- [facebookresearch/SustainableAI](https://github.com/facebookresearch/SustainableAI): Research-oriented repository related to sustainable AI methods and tooling.
 - [Climate Change AI](https://www.climatechange.ai/)
 - [CodeCarbon](https://github.com/mlco2/codecarbon)
 - [Boavizta](https://boavizta.org/en/)
+- [awesome-green-software](https://github.com/Green-Software-Foundation/awesome-green-software): Broader software sustainability repository with adjacent relevance for AI infrastructure and measurement.
 - [ImpactLLM](https://github.com/[ADD-REFERENCE]/ImpactLLM) [ADD REFERENCE]
 
 ## License
